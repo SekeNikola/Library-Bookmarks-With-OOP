@@ -1,6 +1,6 @@
 # Library-Bookmarks-With-OOP
 
-This is Application for storing Books on local storage using OOP.
+This is Application is for storing Books on local storage using OOP.
 
 ## Usage
 
